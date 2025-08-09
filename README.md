@@ -12,11 +12,11 @@
 
 - 🔭 I learned from [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m Expart HTML,CSS,JAVAScript,Typescript,Bootstrap,TailwindCSS,React,Next Js
+- 🌱 I’m expart HTML, CSS, JAVAScript, Typescript, Bootstrap, TailwindCSS, React, Next Js
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasan9878](https://github.com/hasan9878)
 
-- 📝 I regularly write articles on [
+- 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,Tailwindcss,React , Next JS**
 - 📫 How to reach me **  **
 -    Skills: HTML CSS JS TS Bootstrap TailwindCSS React Next Js
@@ -67,7 +67,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/hasan9878"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hasan9878&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/hasan9878"><img alt="Hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hasan9878&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/hasan9878"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hasan9878&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
